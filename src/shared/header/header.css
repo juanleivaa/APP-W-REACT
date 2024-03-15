@@ -1,0 +1,12 @@
+header > h1 {
+    color: dodgerblue;
+}
+
+header {
+    background-color: grey;
+    padding: 1rem;
+}
+
+img  {
+    width: 600px;
+}
